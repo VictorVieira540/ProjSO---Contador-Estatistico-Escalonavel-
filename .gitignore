@@ -1,0 +1,9 @@
+# Binaries
+contador
+*.o
+
+# Documentation Metadata
+__MACOSX/
+
+# Extracted folders
+Grupo_3_extracted/
