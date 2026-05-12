@@ -372,9 +372,6 @@ Esta técnica (per-CPU counters / approximate counters) é amplamente utilizada 
 | **Sistemas embarcados**  | Onde o custo de um mutex pode ser proibitivo em termos de energia e latência |
 | **Jogos e motores gráficos** | Contadores de frames, partículas e entidades sendo processadas em paralelo |
 
-> **Referência acadêmica:** Esta técnica é descrita no livro *"Operating Systems: Three Easy Pieces"* (Remzi & Andrea Arpaci-Dusseau), capítulo sobre Lock-based Concurrent Data Structures, como **"Approximate Counter"** ou **"Sloppy Counter"**.
-
----
 
 ## 9. Conclusão
 
