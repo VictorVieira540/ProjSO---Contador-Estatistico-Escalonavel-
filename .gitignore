@@ -7,3 +7,12 @@ __MACOSX/
 
 # Extracted folders
 Grupo_3_extracted/
+
+#pastas
+.vscode/
+.agent/
+graphify-out/
+backup/
+
+# Binarios extras
+*.exe
